@@ -1,0 +1,8 @@
+***READ-ME***
+
+1. Add the project to an IDE of your choice.
+2. Open the driver class and click run.
+3. Add the specific input as the program prompts.
+4. View the console for results.
+*5. If you have initiated the graphical output feature, minimize the IDE to 
+View the GUI windows.
